@@ -1,8 +1,8 @@
-# Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28"/>
+# Hi there
 
 Master’s student in **Cloud Computing & Cybersecurity** at the University of Lille.
 
-- Portfolio: [louisbecue.github.io/portfolio](https://louisbecue.github.io/portfolio)
+- Website: [louisbecue.github.io](https://louisbecue.github.io)
 
 ## Programming Languages
 
